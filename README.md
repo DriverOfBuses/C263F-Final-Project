@@ -1,0 +1,1 @@
+The code is currently set to run with 9 nodes. The number of nodes, nv, can be changed along with the bell length of the jellyfish, bellLength, and the Young's Modulus, Y. These are the three main parameters to be tuned before running the code. 
